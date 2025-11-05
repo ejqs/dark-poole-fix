@@ -23,6 +23,12 @@ That's it! I tried to be least intrusive as possible to the Poole code base.
 
 ## Usage
 
+### 0. Fork the repo and enable GitHub Pages
+Repo > Settings > Pages > # Build and Deployment > ## Source > GitHub Actions
+and click save.
+
+<img width="767" height="191" alt="Screenshot 2025-11-05 at 6 50 38 PM" src="https://github.com/user-attachments/assets/332460fb-e1bd-49ff-9f09-2b7a0e94a4fa" />
+
 ### 1. Install dependencies
 
 Poole is built on Jekyll and uses its built-in SCSS compiler to generate our CSS. Before getting started, you'll need to install the Jekyll gem and related dependencies:
