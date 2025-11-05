@@ -1,13 +1,13 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: EJQS
+url: https://ejqs.net
 paginate: 1
 baseurl: ""
 permalink: pretty
 
 # Gems
 plugins:
-  - jekyll-gist
+  # - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
 
@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Earlan Josh Q. Sabillano
+  url: https://x.com/ejqs
+  email: ejqs@ejqs.net
 
 # Custom vars
 version: 3.0.0

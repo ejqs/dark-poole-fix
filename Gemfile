@@ -1,5 +1,9 @@
 source "https://rubygems.org"
 
+gem "csv"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
 gem "jekyll"
 gem "jekyll-gist"
 gem "jekyll-paginate"
