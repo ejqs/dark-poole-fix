@@ -23,11 +23,13 @@ That's it! I tried to be least intrusive as possible to the Poole code base.
 
 ## Usage
 
-### 0. Fork the repo and enable GitHub Pages
+### 0a. Fork the repo and enable GitHub Pages
 Repo > Settings > Pages > # Build and Deployment > ## Source > GitHub Actions
 and click save.
 
 <img width="767" height="191" alt="Screenshot 2025-11-05 at 6 50 38 PM" src="https://github.com/user-attachments/assets/332460fb-e1bd-49ff-9f09-2b7a0e94a4fa" />
+
+### 0b. If you want to quickly test it before editing anything, head over to actions and manually run it
 
 ### 1. Install dependencies
 
