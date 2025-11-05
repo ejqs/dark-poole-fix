@@ -27,8 +27,11 @@ sass:
 
 # Options
 
+# Update (2025-11-05): UA-000000-0 format will not work.
+# Universal Analytics was sunset on July 1, 2024.
+# ---
 # Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
+# ga_analytics: G-XXXXXXXXXX
 
 # Specify the author for blog posts
 author:
