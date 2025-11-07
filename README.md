@@ -31,6 +31,8 @@ and click save.
 
 ### 0b. If you want to quickly test it before editing anything, head over to the Actions tab and manually run it
 
+### 0c. Maybe check if .github/workflows/deploy.yml has the correct branch listed
+
 ### 1. Install dependencies
 
 Poole is built on Jekyll and uses its built-in SCSS compiler to generate our CSS. Before getting started, you'll need to install the Jekyll gem and related dependencies:
